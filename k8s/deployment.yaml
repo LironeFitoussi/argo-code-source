@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: react-app
-          image: lironefitoussi/react-app:d0bc530
+          image: lironefitoussi/react-app:8e2ab09
           imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 80
